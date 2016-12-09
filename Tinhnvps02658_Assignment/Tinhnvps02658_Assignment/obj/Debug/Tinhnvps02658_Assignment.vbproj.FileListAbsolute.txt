@@ -1,0 +1,42 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmLogin.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmmain.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlykhachhang.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlynhanvien.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmWelcome.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.pdb
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe.config
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.exe
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.xml
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.pdb
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.pdb
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.xml
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmLogin.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmmain.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlykhachhang.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlynhanvien.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmWelcome.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.Resources.resources
+G:\FPT\hl\dien_toan_dam_may\a\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.vbproj.GenerateResource.Cache
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe.config
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.exe
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.xml
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.pdb
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.exe
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.pdb
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\bin\Debug\Tinhnvps02658_Assignment.xml
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmLogin.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmmain.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlykhachhang.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmquanlynhanvien.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.frmWelcome.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.Resources.resources
+G:\FPT\hl\dien_toan_dam_may\Tinhnvps02658_Assignment\Tinhnvps02658_Assignment\obj\Debug\Tinhnvps02658_Assignment.vbproj.GenerateResource.Cache
